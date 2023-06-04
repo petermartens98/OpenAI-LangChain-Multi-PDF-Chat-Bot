@@ -2,7 +2,12 @@
 Python Streamlit web app allowing the user to upload multiple files and then utilizing the OpenAI API GPT 3.5 Turbo language models, the user is able to have a conversation about the uploaded documents. The user is also allowed to specify the language model and the temperature/creativity of the model. Also presented with a drop down for PDF analytics.
 
 ### Example Demo V4
-Coming Very Soon
+Video Demo Coming Very Soon
+Improvements Include:
+1. Improved Modularity and Readibility of Code
+3. Added PDF Analytics Sidebar Dropdown
+4. Implemented VADER Sentiment Scoring (Valence Aware Dictionary and sEntiment Reasoner) Visualizations
+5. Added Tab to Display Source Code
 
 ### Example Screenshot V3
 1. Implemented Prompts for specific roles and personalities, currently: general assistant, academic, witty
