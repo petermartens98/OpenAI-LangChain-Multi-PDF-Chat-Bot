@@ -1,7 +1,9 @@
 # OpenAI LangChain Chat with Multiple PDFs Streamlit Web App
 Python Streamlit web app allowing the user to upload multiple files and then utilizing the OpenAI API GPT 3.5 Turbo language models, the user is able to have a conversation about the uploaded documents. The user is also allowed to specify the language model and the temperature/creativity of the model. Also presented with a drop down for PDF analytics.
 
-### Example Demo V4
+
+
+### Example Demo V4 - [multiPDF_V4_Demo.webm](https://github.com/petermartens98/OpenAI-LangChain-Multi-PDF-Chat-Bot/assets/87671757/fde8e9a3-2e73-45ce-be80-e3d476308c72)
 Video Demo Coming Very Soon
 Improvements Include:
 1. Improved Modularity and Readibility of Code
