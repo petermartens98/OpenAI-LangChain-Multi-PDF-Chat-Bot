@@ -215,5 +215,3 @@ def main():
 if __name__ == '__main__':
     main()
 
-# To Do : Add chat history
-# To Do : Add multi document functionality
